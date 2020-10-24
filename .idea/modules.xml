@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Seam_Carving.iml" filepath="$PROJECT_DIR$/.idea/modules/Seam_Carving.iml" group="Seam_Carving" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Seam Carving/task/Seam_Carving-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Seam Carving/task/Seam_Carving-task.iml" group="Seam_Carving/Seam_Carving-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Seam Carving/task/Seam_Carving-task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Seam Carving/task/Seam_Carving-task_main.iml" group="Seam_Carving/Seam_Carving-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Seam Carving/task/Seam_Carving-task_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Seam Carving/task/Seam_Carving-task_test.iml" group="Seam_Carving/Seam_Carving-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="Seam_Carving/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="Seam_Carving/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="Seam_Carving/util" />
+    </modules>
+  </component>
+</project>
